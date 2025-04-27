@@ -1,6 +1,6 @@
 Calculadora de IMC em Java
 
-Este é um projeto simples em Java que realiza o cálculo do IMC (Índice de Massa Corporal), com base no peso e altura informados pelo usuário. Ideal para praticar lógica de programação, entrada de dados e estrutura condicional.
+Este é um projeto simples em Java que realiza o cálculo do IMC (Índice de Massa Corporal), com base no peso e altura informados pelo usuário. 
 
 💡 O que é IMC?
 
