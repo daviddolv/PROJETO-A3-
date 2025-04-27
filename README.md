@@ -16,7 +16,7 @@ O IMC (Índice de Massa Corporal) é uma medida usada para identificar se uma pe
 ## 🧰 O que foi utilizado para desenvolver: 
 
 - Java (JDK 8+)
-- Terminal / Console
+- Terminal / VSCODE
 
 ## 🚀 Como executar
 
